@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;api-gateway-1&apos; to &apos;limits-service&apos;" description="Rename resource &apos;api-gateway-1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/api-gateway-1" name="limits-service" stamp="1662445078057" updateReferences="true"/>&#x0A;<refactoring comment="Delete 3 resources" deleteContents="false" description="Delete 3 resources" element1="/api-gateway" element2="/car-service" element3="/discovery-service" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1662447226486"/>
+</session>

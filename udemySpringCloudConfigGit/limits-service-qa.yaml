@@ -1,0 +1,10 @@
+# limits-service:
+#   minimum: 6
+#   maximum: 994
+
+spring:
+  config:
+    import: optional:configserver:http://localhost:8888
+  cloud:
+    config:
+      profile: dev
